@@ -1,0 +1,1 @@
+{"uuid":"af50365a-49e9-4d6d-b01a-501f3d06f6e4","name":"saucedemo.Tugas4.BaseWebTest.tearDown","description":"","start":1660144413020,"stop":1660144413136,"children":["d08b2a70-2e5c-4400-9607-839c5f85d09f"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1660144413020,"stop":1660144413136}]}
